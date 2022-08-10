@@ -29,4 +29,4 @@ convenient format. The parser selects new or updated information and saves it in
 form, providing quick access to it.
 
 ### 
-[Result]{https://github.com/Moali123-svg/mobile-phone-electronics-analysis/blob/main/README.md}
+[Result]{https://github.com/Moali123-svg/mobile-phone-electronics-analysis/blob/main/project%203%20Results.pdf}
